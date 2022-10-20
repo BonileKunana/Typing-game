@@ -1,0 +1,17 @@
+commit 6d89f9b3059803a87a53d8443d581a0ba35fa208
+Author: Bonile Kunana <knnbon009@myuct.ac.za>
+Date:   Mon Aug 27 16:13:45 2022 +0200
+
+    first functionality added
+
+commit 9fdb35d7f13865a0718deecb4bf0c4005afbcd46
+Author: Bonile Kunana <knnbon009@myuct.ac.za>
+Date:   Mon Aug 28 16:12:54 2022 +0200
+
+    HungryWord and HungryWordMover
+
+commit 9f106025d8ed518a61c482796f22808d82677bb5
+Author: Bonile Kunana <knnbon009@myuct.ac.za>
+Date:   Mon Aug 29 16:11:09 2022 +0200
+
+    TypingTutorApp added
